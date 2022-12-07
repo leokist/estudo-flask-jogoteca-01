@@ -1,1 +1,2 @@
-# estudo-flask-jogoteca-01
+# ESTUDO FLASK - JOGOTECA
+Exerc do Curso de Flask da Alura
